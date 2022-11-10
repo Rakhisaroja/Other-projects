@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "E:\...\KBTWS\", "..\KBTWS", "{FEFAFE17-A6EF-4993-8F4C-D53B0E95851A}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.VirtualPath = "/KBTWS"
+		Debug.AspNetCompiler.PhysicalPath = "E:\Rakhi.S\frm Mahesh\KBTWS\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\KBTWS\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/KBTWS"
+		Release.AspNetCompiler.PhysicalPath = "E:\Rakhi.S\frm Mahesh\KBTWS\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\KBTWS\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "42716"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|.NET = Debug|.NET
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FEFAFE17-A6EF-4993-8F4C-D53B0E95851A}.Debug|.NET.ActiveCfg = Debug|.NET
+		{FEFAFE17-A6EF-4993-8F4C-D53B0E95851A}.Debug|.NET.Build.0 = Debug|.NET
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
